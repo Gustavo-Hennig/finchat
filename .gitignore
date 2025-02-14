@@ -1,0 +1,12 @@
+# Ambiente virtual
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração sensíveis (se necessário)
+config.py
+
+# Outros arquivos temporários
+*.log
